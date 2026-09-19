@@ -1,16 +1,28 @@
-## Hi there 👋
+  # Hi, I'm Michal 👋
 
-<!--
-**michal-wq/michal-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  I'm a Computational and Data Science student at FHGR.
 
-Here are some ideas to get you started:
+  ## Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Linux
+  - Java and Spring Boot
+  - Docker and Kubernetes
+  - CI/CD with GitHub Actions
+  - Prometheus and Grafana
+  - Big Data and cloud computing
+
+  ## Current Project
+
+  I'm building a web application with a complete DevOps pipeline as part of my studies.
+
+  ## Technologies
+
+  - Python
+  - PyTorch, NumPy, pandas, and scikit-learn
+  - Git and GitHub
+  - Docker
+  - PostgreSQL
+
+  ## Contact
+
+  - GitHub: [@michal-wq](https://github.com/michal-wq)
